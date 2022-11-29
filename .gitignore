@@ -1,0 +1,13 @@
+# files to ignore when uploading to github
+
+# virtual environment
+venv/
+
+# cache with any username 
+.cache-*
+
+# my spotify keys
+spotify_keys.json
+
+# my jupyter notebook checkpoints
+.ipynb_checkpoints/
