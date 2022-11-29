@@ -1,6 +1,6 @@
-# Insulting Playlist
+# Playlist made up of Stranger Things Quotes
 
-Using the [Spotify API](https://developer.spotify.com/dashboard/) and the [Evil Insult Generator API](https://evilinsult.com/api/?ref=publicapis.dev#generate-insult-get) to create a playlist that communicates the insult via the song names.
+Using the [Spotify API](https://developer.spotify.com/dashboard/) and the [Stranger Things API](https://github.com/shadowoff09/strangerthings-quotes?ref=publicapis.dev) to create a playlist that makes up the quote via the track names.
 
 
 
